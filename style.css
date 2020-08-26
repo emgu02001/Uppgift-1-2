@@ -1,27 +1,45 @@
-p.text{
-	border: 1px solid green;
-	color: Green;
-	background-color: white;
-	border-width: 8px;
+p.program{
+	color: yellow;
+	background-color: orange;
+	text-align: left;
+	
+}
+
+
+p.thoughts{
+	color:white;
+	background-color: blue;
+    text-align: right;
+}
+p.me{
+	border: 3px solid green;
+	color: white;
+	background-color: blue;
 	text-align: center;
+}
+
+p.text{
+	color: white;
+	background-color: blue;
+	text-align: left;
 }
 body{
 	border: 1px solid green;
 	background-color: black;
-	text-color: green;
+	
 }
 h1{
-	border: 1px solid green;
-	background-color:white;
-	text-align: center;
-	color: green;
+	background-color:blue;
+	text-align: left;
+	color: white;
 	font-family: arial;
-	font-size: 20px;
+	font-size: 22px;
 }
 h2{
-	border: 1px solid green;
-	color: Green;
-	background-color: white;
-	border-width: 20px ;
-	text-align: center;
+	color: white;
+	background-color: blue;
+	text-align: left;
+}
+a{ 
+    text-decoration:none;
 }
