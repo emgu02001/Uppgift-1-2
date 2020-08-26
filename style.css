@@ -1,0 +1,27 @@
+p.text{
+	border: 1px solid green;
+	color: Green;
+	background-color: white;
+	border-width: 8px;
+	text-align: center;
+}
+body{
+	border: 1px solid green;
+	background-color: black;
+	text-color: green;
+}
+h1{
+	border: 1px solid green;
+	background-color:white;
+	text-align: center;
+	color: green;
+	font-family: arial;
+	font-size: 20px;
+}
+h2{
+	border: 1px solid green;
+	color: Green;
+	background-color: white;
+	border-width: 20px ;
+	text-align: center;
+}
